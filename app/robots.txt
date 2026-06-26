@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://airesumecvanalyzer.vercel.app/sitemap.xml

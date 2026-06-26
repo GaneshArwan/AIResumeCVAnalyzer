@@ -1,0 +1,6 @@
+# Node.js Dependencies (for reference)
+next@15.0.3
+react@19.0.0-rc
+@google/generative-ai@^0.21.0
+pdf-parse@^1.1.1
+tailwindcss@^3.4.1

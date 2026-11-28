@@ -2,6 +2,20 @@
 
 A web application for comparing PDF resumes against job descriptions.
 
+## Live Demo
+
+Live Deployment: [ai-resume-cv-analyzer.vercel.app](https://ai-resume-cv-analyzer.vercel.app/)
+
+![Live Demo](docs/media/demo.gif)
+
+[Watch full MP4 walkthrough](docs/media/demo.mp4)
+
+## Screenshots
+
+| Resume & Job Description Input | Provider & Model Settings |
+| :---: | :---: |
+| ![Resume & Job Description Input](docs/media/screenshot-desktop.png) | ![Provider & Model Settings](docs/media/screenshot-interactive.png) |
+
 ## Features
 - **File Parsing**: Extracts text from PDF files using `pdf-parse`.
 - **Comparison**: Displays multiple resumes side-by-side.
